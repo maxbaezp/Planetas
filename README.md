@@ -7,10 +7,16 @@ El proposito del curso es Desarrollar aplicaciones Web que permitan la construcc
 Durante las unidades se aprenderá sobre el uso de:
 
 · Git + GitHub
+
 · HTML
+
 · CSS
+
 · JavaScript
+
 · Frameworks de desarrollo
+
 · PHP + My SQL
+
 · Ajax
 
